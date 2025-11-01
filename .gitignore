@@ -1,0 +1,12 @@
+build/apidoc/
+node_modules/
+dist/
+.vscode/
+*.pdf
+.DS_Store
+.env
+env/
+.venv
+.flaskenv
+*.pyc
+*.pyo
